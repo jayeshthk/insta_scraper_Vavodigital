@@ -53,7 +53,7 @@ This project is a web application built using FastAPI and Node.js that allows yo
 
 4. The downloaded posts will be saved to the `static/data/{username}` directory, and a CSV file named `{username}.csv` will be generated for each user in parent directory. For example here `future.csv` is generated for the future's Instagram profile.
 
-Note: If you choose not to use the Node.js scraper, you can manually provide the username here `https://github.com/jayeshthk/insta_scraper_Vavodigital/blob/1b0756cd60c74b423061ebba6476e6d8d78f5eb0/node/node_insta_scrape.js#L12C1-L15C3` in the required format. The FastAPI  will still generate the CSV file based on the provided data.
+Note: If you choose not to use the Node.js scraper, you can manually provide the username here (https://github.com/jayeshthk/insta_scraper_Vavodigital/blob/1b0756cd60c74b423061ebba6476e6d8d78f5eb0/node/node_insta_scrape.js#L12C1-L15C3) in the required format. The FastAPI  will still generate the CSV file based on the provided data.
 
 ## Contributing
 
