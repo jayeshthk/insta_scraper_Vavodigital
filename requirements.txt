@@ -1,0 +1,9 @@
+beautifulsoup4==4.12.2
+bs4#optional installation.
+fastapi==0.99.1
+fastapi_utils==0.2.1
+instaloader==4.9.6
+pandas==2.0.2
+pydantic==1.10.7
+selenium==4.10.0
+uvicorn==0.22.0
