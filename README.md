@@ -55,6 +55,14 @@ This project is a web application built using FastAPI and Node.js that allows yo
 
 Note: If you choose not to use the Node.js scraper, you can manually provide the username here (https://github.com/jayeshthk/insta_scraper_Vavodigital/blob/1b0756cd60c74b423061ebba6476e6d8d78f5eb0/node/node_insta_scrape.js#L12C1-L15C3) in the required format. The FastAPI  will still generate the CSV file based on the provided data.
 
+## Screenshots :
+![Fastapi running on localhost](./assets/fastapi_window.png)
+![nodejs runner ](./assets/node_response.png)
+![Saved images (future(username))](./assets/saved_posts.PNG)
+
+
+
+
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the GitHub repository.
